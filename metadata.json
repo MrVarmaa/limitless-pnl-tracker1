@@ -1,0 +1,6 @@
+
+{
+  "name": "Limitless PnL Tracker",
+  "description": "A profit & loss tracking dashboard for users of the Limitless prediction market platform on the Base blockchain. It fetches, calculates, and visualizes a user’s profits and losses from their on-chain activity.",
+  "requestFramePermissions": []
+}
